@@ -1,1 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+.navbar {
+    border: none;
+    background-color: gray;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: white;
+    color: black;
+}
+
+.center {
+    width: 90%;
+    background-color: white;
+}
+
+.container {
+    background-color: gray;
+}
+
+.text-center {
+    font-size: 30px;
+}
+
+#myNavbar ul li a {
+    color: black;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
